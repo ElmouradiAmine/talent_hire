@@ -1,6 +1,7 @@
 # talent_hire
-
 A new Flutter project.
+
+![](https://github.com/ElmouradiAmine/talent_hire/blob/master/screenshots/screenshot.png)
 
 ## Getting Started
 
